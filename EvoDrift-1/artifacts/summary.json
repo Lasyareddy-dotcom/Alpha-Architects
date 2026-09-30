@@ -1,0 +1,14 @@
+{
+  "baseline_accuracy": 0.6931702344546381,
+  "adaptive_accuracy": 0.9306829765545361,
+  "baseline_f1": 0.6957353352536043,
+  "adaptive_f1": 0.9294479624086857,
+  "drift_events": 4,
+  "stream_samples": 981,
+  "features": [
+    "rainfall",
+    "river_level",
+    "temperature",
+    "seismic"
+  ]
+}
